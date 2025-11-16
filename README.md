@@ -1,5 +1,6 @@
 EduCareerHub
 A unified web application combining student portfolio management, career guidance, and AI-driven recommendations. It supports user roles, GPA imports, quizzes, university/trend searches, events, and admin tools.
+
 Features
 
 Authentication: Login/register with role-based access (student, admin, teacher).
